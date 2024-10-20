@@ -1,0 +1,31 @@
+
+#mybtn{
+    height: 30px;
+    width: 100px;
+    color: black;
+    background-color: aquamarine;
+
+    border-radius: 20px;
+}
+#mybtn2{
+    height: 30px;
+    width: 100px;
+    color: rgb(223, 215, 215);
+    background-color: rgb(68, 121, 112);
+    border-radius: 20px;
+    margin: 20px;
+}
+.copycode{
+    height: 80px;
+    background-color: azure;
+    width: 70%;
+  opacity: 0.5;
+    border: 10px salmon;
+}
+body{
+    height: 100vh;
+    background-image: linear-gradient(to right top,#051937,#004d7a,#008793,#00bf72,#a8eb12);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
